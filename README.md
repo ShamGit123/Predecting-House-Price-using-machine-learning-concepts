@@ -71,3 +71,4 @@
     <li><strong>Libraries:</strong> pandas, NumPy, Scikit-learn, Matplotlib, Seaborn</li>
     <li><strong>Machine Learning Models:</strong> Linear Regression, Decision Trees, Random Forests, Gradient Boosting, etc.</li>
 </ul>
+<a href="https://github.com/ShamGit123/Repo-1/blob/main/predicting-house-price-in-king-county-usa.ipynb">View the notebook here</a>
